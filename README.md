@@ -14,3 +14,10 @@ https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?speciali
 - Vanishing Gradient
 - Activation Functions
 - Lab2b: Vanishing Gradient and Activation Functions
+
+## Keras and Deep Learning Libraries
+- Deep Learning Libraries
+- Regression Models with Keras
+- Classification Models with Keras
+
+
