@@ -20,4 +20,13 @@ https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?speciali
 - Regression Models with Keras
 - Classification Models with Keras
 
+## Deep Learning Models
+- Shallow vs Deep Neural Networks
+- Convolutional Neural Networks
+- Lab4a: CNNs with Keras
+- Recurrent Neural Networks
+- Transformers
+- Lab4b: Transformers with Keras
+- Autoencoders
+- Using Pre-trained Models
 
