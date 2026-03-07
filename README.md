@@ -1,4 +1,6 @@
-https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer#modules
+- https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer#modules
+- https://www.coursera.org/professional-certificates/ai-engineer#courses
+
 # Introduction-to-Deep-Learning-Neural-Networks-with-Keras
 
 ## Introduction to Deep Learning and Neural Networks
